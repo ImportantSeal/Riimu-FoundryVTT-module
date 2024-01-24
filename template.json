@@ -1,0 +1,22 @@
+{
+    "Actor":{},
+    "Item":{
+        "types":[
+            "weapon"
+        ],
+        "templates": {
+            "itemDescription":{
+                "description":""
+            }
+        },
+        "weapon": {
+            "templates":[
+                "itemDescription"
+            ],
+            "attackWith": "weapons",
+            "vahinko":0,
+            "koko":0,
+            "nopeus":0
+        }
+    }
+}

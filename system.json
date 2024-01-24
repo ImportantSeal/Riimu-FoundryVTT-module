@@ -1,0 +1,30 @@
+{
+    "id":"riimu",
+    "title": "Riimu",
+    "decription": "Foundry vtt system, Riimu pöytäroolipelille",
+    "author": "Important_Seal",
+    "version": 0.02,
+    "compatibility": {
+        "minimum": "11.315",
+        "verified": "11.315",
+        "maximum": "11.3151"
+      },
+    
+    "esmodules": [
+        "riimu.js"
+    ],
+    "styles":[
+        "riimu.css"
+    ],
+    "packs":[
+
+    ],
+    "languages":[
+
+    ],
+    "gridDistance":5,
+    "gridUnits": "m",
+    "primaryTokenAttribute": "wounds",
+    "initiative": "1d20",
+    "mannifest": "https://github.com/ImportantSeal/Riimu-FoundryVTT-module/main/system.json"
+}
